@@ -10,6 +10,6 @@ script:
 deploy:
   provider: heroku
   api_key: b704a063-0687-4050-a585-c86c45b5c9e6
-  app: Heroku-Flask
+  app: heroku-flask-z
   on:
     repo: zayedshah/Heroku-Flask
