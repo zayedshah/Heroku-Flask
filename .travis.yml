@@ -11,6 +11,6 @@ deploy:
   provider: heroku
   api_key:
     secure: eyR49CMiYOqHHZWVuWxUrxVxd7mtMMzMHUkPrn31POAAao/zyR2tWVd3ici+6rxhAsVFWpX04b6oDMyIlOUdm8lBr0tDohTowTW8RPDLNh62OTL5Mp3jckHZGy3N5Gb4ZIcGE3zO8Rk/oC4a0QlaOiXvKT72h3KMD5Q8ZOSAW4dtW7Gwwxh+EB9sEKAhPs2k4meJ7uefWnY9Hso8/CQ5h5mdliMxd0gw8vHPi/oxX1clqnmmBgSlIt/r8pnC8cOngP35jgsBx0ZJiX61FawmCH9/1cu4mE1YIHTTXkiBtI/+sI9/nR+Q/qWS8L8TCDOx6HdYjEAC4dkVTVlIfTu7l6VZL/00Qhb3P9A2RTsomyNI1Whu2wwN8lxrHgs4paBYJzsS1Il3BbenGbQwalF9YAWherwFa5MDgBxStogmqSmbjkBiCS/AFEiyOuJBlJRX4o6/JzpJTsUORThYUODuI4ePuWWFnSmwWMqGWUu3DRRnM/6DyiTpmjLNDdQxgMoOq3FBMsSALY98skN8A5x+I6vpjDbDjdgh4ixi7NmsQ3IKURkikw6MAep+ZuHUUL7QV73AKm2qIZpsj00aXMMgXHqPtKah+Paw/+OTB+h6ZmQ8ln1Xvam5lIvNhcdqAX+nZWbiBbc9WIVe+ISTRBrUW27p272+jaPzvSVHaC8zMrY=
-  app: Heroku-Flask
+  app: heroku-flask-z
   on:
     repo: zayedshah/Heroku-Flask
